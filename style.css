@@ -16,6 +16,9 @@ body {
 img {
     height: 100%;
 }
+#first {
+    margin-top: 125px;
+}
 
 .container {
     position: relative;
